@@ -1,0 +1,21 @@
+# Fichiers de données
+*.csv
+*.xlsx
+*.json
+
+# Dossiers data
+data/
+datasets/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Environnement
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
